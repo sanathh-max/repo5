@@ -8,6 +8,7 @@ git commit -m "hhh"
 git --version
 git checkout master
 git checkout -b fb1
+gedit f1.txt
 git add .
 git commit -m "Your commit message for feature-branch"
 git checkout master
