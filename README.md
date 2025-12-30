@@ -17,9 +17,18 @@ git stash save "Your stash message"
 git checkout fb1
 git stash apply
 git clone "url"
-git checkout fb1
+is
+cd repository
+gedit Readme.md
+
 git fetch origin
-git rebase origin/fb1
+git rebase origin/main
+gedit Readme.md
+git checkout fb1
+gedit Readme.md
+edit
+add
+commit
 git rebase --continue
 git push origin fb1
 git checkout master
